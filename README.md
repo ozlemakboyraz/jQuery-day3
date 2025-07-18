@@ -10,6 +10,7 @@ Bu proje, [Random User API](https://randomuser.me/) kullanılarak rastgele kulla
 - Modal penceresi açıldığında arka plan flu (blur) ve yarı saydam görünür.
 - "Yeni Kullanıcıları Getir" butonuna tıklandığında yeni kullanıcılar yüklenir.
 - Alt kısımda Slick Slider ile yatay kayan kullanıcı görünümleri bulunur.
+
 -Dış Bağımlılıklar:
   Random User API
   Fancybox UI

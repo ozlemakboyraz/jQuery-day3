@@ -11,11 +11,12 @@ Bu proje, [Random User API](https://randomuser.me/) kullanılarak rastgele kulla
 - "Yeni Kullanıcıları Getir" butonuna tıklandığında yeni kullanıcılar yüklenir.
 - Alt kısımda Slick Slider ile yatay kayan kullanıcı görünümleri bulunur.
 
--Dış Bağımlılıklar:
-  Random User API
-  Fancybox UI
-  Slick Carousel
-  Animate.css (giriş animasyonları için)
+## Dış Bağımlılıklar
+- Random User API
+- Fancybox UI
+- Slick Carousel
+- Animate.css (giriş animasyonları için)
+
 
 ### Ana Görünüm
 <img width="1912" height="945" alt="user1" src="https://github.com/user-attachments/assets/cb86383e-9478-45fb-97a0-0884456ad0dd" />
